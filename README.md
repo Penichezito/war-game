@@ -2,6 +2,7 @@
 
 Jogo War
 O Jogo War é um jogo de cartas simples entre dois jogadores. O jogo é jogado com um baralho padrão de 52 cartas. As cartas são distribuídas igualmente entre os dois jogadores e o jogo começa.
+![]()
 
 ## ***Regras do Jogo War***
 
