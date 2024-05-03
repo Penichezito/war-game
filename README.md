@@ -2,7 +2,7 @@
 
 Jogo War
 O Jogo War é um jogo de cartas simples entre dois jogadores. O jogo é jogado com um baralho padrão de 52 cartas. As cartas são distribuídas igualmente entre os dois jogadores e o jogo começa.
-![]()
+![Imagem fazendo alusão a um baraho de cartas contendo o símbolo da linguagem Python](https://github.com/Penichezito/war-game/blob/main/img/war-card-python.jpg)
 
 ## ***Regras do Jogo War***
 
