@@ -1,1 +1,4 @@
-# war-game
+# Game War desenvolvido em Python
+
+
+
