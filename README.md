@@ -13,3 +13,10 @@ O Jogo War é um jogo de cartas simples entre dois jogadores. O jogo é jogado c
 + Fim do Jogo: O Jogo War termina quando um dos jogadores fica sem cartas. O jogador que ainda tem cartas é o vencedor.
 + Sair do Jogo: A qualquer momento durante o Jogo War, um jogador pode escolher sair do jogo pressionando ‘q’ quando solicitado.
 
+## ***Explicação simplificada do código***
+
++ Classe Card: Esta classe representa uma carta individual no baralho. Cada carta tem um valor (2 a 10, Valete, Rainha, Rei, Ás) e um naipe (Espadas, Copas, Ouros, Paus). A classe também define métodos para comparar duas cartas.
++ Classe Deck: Esta classe representa um baralho de cartas. No início do jogo, um baralho é criado com 52 cartas (13 valores * 4 naipes) e as cartas são embaralhadas. A classe também define um método para remover uma carta do baralho.
++ Classe Player: Esta classe representa um jogador. Cada jogador tem um nome, uma carta atual (que é jogada em cada rodada) e um contador de vitórias.
++ Classe Game: Esta classe representa o jogo em si. Ela define o fluxo do jogo, incluindo a distribuição das cartas, a jogada de cada rodada e a determinação do vencedor. A classe também define métodos para exibir o estado atual do jogo.
++ Fluxo do Jogo: No início do jogo, cada jogador recebe metade do baralho. Em cada rodada, cada jogador joga a carta do topo de sua pilha. A carta de maior valor ganha a rodada e o jogador vencedor leva ambas as cartas. O jogo continua até que um dos jogadores fique sem cartas, e o jogador com cartas restantes é declarado o vencedor.
